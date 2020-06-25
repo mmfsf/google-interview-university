@@ -6,7 +6,7 @@ Translations: [中文版本](https://github.com/jwasham/google-interview-univers
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to Google software engineer.
 
-![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
+[Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
 This long list has been extracted and expanded from **Google's coaching notes**, so these are the things you need to know.
 There are extra items I added at the bottom that may come up in the interview or be helpful in solving a problem. Many items are from
